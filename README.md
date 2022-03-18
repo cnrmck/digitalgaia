@@ -10,9 +10,7 @@ We unlock the value of the regenerative economy by helping stewards optimize and
 We give Mother Nature money and let her spend it.
 
 ## Digital Gaia
-If Mother Nature had money, how would she spend it?
-
-That's what we'll answer.
+Our question is, "if Mother Nature had money, how would she spend it?"
 
 We're giving Nature a fund and building her a brain to deploy it.
 
