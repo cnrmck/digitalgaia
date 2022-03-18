@@ -56,8 +56,8 @@ You probably want to know how it works. Here's the sketch of its components:
 3. An open **forum** where proposed projects can find **funding** based on their NICE score, and where investors and stewards can be rewarded by selling tokens to the Voluntary Carbon Offset Markets.
 4. (Endgame) An **algorithmic trust** managed by the NICE to which investors loan money. This flips the script so Nature herself can invest in the projects that she thinks are best.
 
-## How will you measure these projects' success?
-Instead of CO2 captured, our primary measure of success is the reduction of [free energy](https://en.wikipedia.org/wiki/Free_energy_principle). Free energy is an integrated, context-specific measure of efficiency that is fundamental to our Natural Intelligence engine. Free energy can be calculated for any system with active inference agents as an indicator of the healthy trajectory of the system. The lower the free energy, the healthier the system. [Some even argue](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2020.0503) that free energy is the value that Nature herself seeks to minimize; and that symbiosis of economy and ecology is possible in its pursuit.
+## What is success?
+Instead of CO2 captured, our measure of success is the reduction of [free energy](https://en.wikipedia.org/wiki/Free_energy_principle). Free energy is an integrated, context-specific measure of efficiency that is fundamental to our Natural Intelligence engine. Free energy can be calculated for any system with active inference agents as an indicator of the healthy trajectory of the system. The lower the free energy, the healthier the system. [Some even argue](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2020.0503) that free energy is the value that Nature herself seeks to minimize; and that symbiosis of economy and ecology is possible in its pursuit.
 
 That’s why the token returned is a Free Energy Reduction Numeraire: a `$FERN`.
 
@@ -90,13 +90,13 @@ Our initial team includes experts in the climate business, as well as the invent
 - **Karl Friston** - The world’s number one neuroscientist by citations and the primary creator of Active Inference.
 
 ## FAQs
-Q: Why don't you ever use the term climate change?
+Q: Why don't you use the term climate change here?
 A: Because if an arsonist was loose in your house with a flamethrower you wouldn't call it "kitchen renovation".
 
 Q: Why is your logo orange if you’re a climate company?
 A: Because oil companies have green logos these days
 
-Q: Ok, I funded you. What's the best thing I can do to help? 
+Q: Ok, I funded you! What's the best thing I can do to help? 
 A: Share this grant with researchers modeling natural and complex systems.
 
 Q: *
