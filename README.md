@@ -32,7 +32,7 @@ Who cares if Carbon Credits are worthless if they're actually detrimental? That'
 
 Just as investors hold a diversified portfolio, Nature has a diverse set of risks to hedge against.
 
-If Nature had a voice she would say, "Sure, thanks for the CO2 scrubbers, but right now I'm just slightly more worried about how [the UK has already lost up to 92% of its seagrass in the last century due to fertilizer runoff](https://www.wwf.org.uk/what-we-do/planting-hope-how-seagrass-can-tackle-climate-change). And seagrass is, you know, [the lungs of the sea](https://www.wwf.org.uk/what-we-do/planting-hope-how-seagrass-can-tackle-climate-change)."
+If Nature had a voice she would say, "Sure, thanks for the CO2 scrubbers, but right now I'm just slightly more worried about how [the UK has already lost up to 92% of its seagrass in the last century due to fertilizer runoff](https://www.wwf.org.uk/what-we-do/planting-hope-how-seagrass-can-tackle-climate-change). And seagrass is, you know, [the lungs of the sea](https://www.nwf.org/Educational-Resources/Wildlife-Guide/Plants-and-Fungi/Seagrasses)."
 
 But it doesn’t matter she can't say that; even if she had a voice we wouldn't listen. We need to give her money. Humans listen to money.
 
